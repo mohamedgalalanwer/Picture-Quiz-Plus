@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/WordScene.unity
+  isLoaded: 1
+  isActive: 1

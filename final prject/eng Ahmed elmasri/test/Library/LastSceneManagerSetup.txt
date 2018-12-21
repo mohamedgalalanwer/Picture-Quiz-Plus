@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/GAS/Example/GlobalAccountSystem.unity
+  isLoaded: 1
+  isActive: 1
